@@ -36,3 +36,9 @@ sudo chmod +x /usr/local/bin/docker-compose
 sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 ```
 
+8. docker-compose操作
+```
+sudo docker-compose up -d
+sudo docker-compose down
+```
+
